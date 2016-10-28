@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  we16 Day 1
-date: 2015-10-27 23:45:00
+date: 2016-10-27 23:45:00
 description: Flying in from Rochester, MN and learning it up at we16 in philly
 author: Aditi Rajagopal
 author_twitter: aditi_rajagopal
