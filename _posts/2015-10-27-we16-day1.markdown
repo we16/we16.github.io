@@ -1,0 +1,40 @@
+---
+layout: post
+title:  we16 Day 1
+date: 2015-10-27 23:45:00
+description: Flying in from Rochester, MN and learning it up at we16 in philly
+author: Aditi Rajagopal
+author_twitter: aditi_rajagopal
+---
+
+It's been a long day. I left Rochester MN at 4:00 this morning to catch my 6:50 flight from MSP PHL. 
+
+Once I landed I took an uber and headed to my AirBNB by the convention center (the sharing economy is a wonderful evil). After changing out of my comfy airplane clothes, I rushed over to the convention center to find my fellow IBMers for lunch. 
+
+We endeded up going to [QT Vietnamese Sandwich](https://www.yelp.com/biz/qt-vietnamese-sandwich-philadelphia) and I got a delicious Lemongrass Tofu Banh Mi, and a Vietnamese Iced Coffee (10/10, would go again). After that I went to the afternoon sessions.
+
+Here are some screenshots of the sessions I attended
+
+<div class="img_row">
+  <img class="col one" src="/img/salary_negotiation2.jpg">
+  <img class="col one" src="/img/salary_negotiation1.jpg">
+  <img class="col one" src="/img/salary_negotiation3.jpg">
+</div>
+<div class="img_row">
+  <img class="col one" src="/img/courage1.jpg">
+  <img class="col one" src="/img/courage2.jpg">
+  <img class="col one" src="/img/courage3.jpg">
+</div>
+<div class="img_row">
+  <img class="col two" src="/img/goldfish1.jpg">
+  <img class="col one" src="/img/goldfish2.jpg">
+</div>
+<div class="img_row">
+  <img class="col two" src="/img/goldfish3.jpg">
+  <img class="col one" src="/img/goldfish4.jpg">
+</div>
+<div class="col three caption">
+  I need to fix these image orientations...not sure what's going on over here haha
+</div>
+
+I'll write a summary in the morning. 
